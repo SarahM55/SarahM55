@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Sarah! 
-- 🏦 I'm a backend engineer at Monzo Bank
-- 🧑‍🎓 I’m a Makers Academy graduate
-- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 I'm based in Scotland
+- 🏦 Backend engineer at Monzo Bank
+- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Based in Scotland
 
 <!---
 SarahM55/SarahM55 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
